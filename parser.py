@@ -2,7 +2,7 @@ from multichaincli import Multichain
 import json
 
 rpcuser = 'multichainrpc'
-rpcpasswd = '7yt5M1numoWyfkRSh2mMTuRUfk4wpjrEjn9vo61g11wu'
+rpcpasswd = 'X' #Put your multichain password here
 rpchost = 'localhost'
 rpcport = '4366'
 chainname = 'esiee-cyber-chain'
